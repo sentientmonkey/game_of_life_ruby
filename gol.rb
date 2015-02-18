@@ -90,7 +90,7 @@ class GameOfLife
     loop do
       tick
       display
-      sleep 1
+      sleep 0.1
     end
   end
 end
